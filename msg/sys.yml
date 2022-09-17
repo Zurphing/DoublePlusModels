@@ -1,44 +1,3 @@
-- id: 0x398D
-  en: Distance Dash
-- id: 0x3CB6
-  en: Distance Step
-- id: 0x3CB7
-  en: >-
-    From even the farthest of distances,
-
-    rush towards enemies while keeping
-
-    your guard up.
-- id: 0x398E
-  en: >-
-    Close in and move towards
-
-    even the farthest of targets.
-- id: 0x4E83
-  en: Dodge Roll LV1
-- id: 0x4E85
-  en: Dodge Roll LV2
-- id: 0x4E87
-  en: Dodge Roll LV3
-- id: 0x4E8D
-  en: Sonic Blade
-- id: 0x4E8F
-  en: Ars Arcanum
-- id: 0x4E93
-  en: Ragnarok
-- id: 0x4EA0
-  en: >-
-    Limit Form Status.
-    
-    A form specializing in Limit attacks.
-    
-    {:color #F0F00080}Drive points consumed: 4{:reset}
-- id: 0x4EF6
-  en: Ragnarok
-- id: 0x4EFE
-  en: Sonic Blade
-- id: 0x4F01
-  en: Ars Arcanum
 - id: 0x3DFC
   en: One-Winged Angel
 - id: 0x3DFD
@@ -88,3 +47,10 @@
     A sturdy shield with deceptively long range.
     
     Absorbs {:color #F0F00080}15%{:reset} of damage taken.
+- id: 0x05CA
+  en: Soul Eater
+- id: 0x3E53
+  en: >-
+    A weapon of darkness once wielded by Riku.
+    Increases dark resistance by {:color #F0F00080}10%{:reset}, and
+    increases the duration of a Drive Form.
