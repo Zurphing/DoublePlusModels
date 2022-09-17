@@ -49,8 +49,10 @@
     Absorbs {:color #F0F00080}15%{:reset} of damage taken.
 - id: 0x05CA
   en: Soul Eater
-- id: 0x3E53
+- id: 0x05CB
   en: >-
     A weapon of darkness once wielded by Riku.
+    
     Increases dark resistance by {:color #F0F00080}10%{:reset}, and
+    
     increases the duration of a Drive Form.
